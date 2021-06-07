@@ -1,0 +1,2 @@
+exclude hotdog/token.cfg
+include hotdog/token.sample.cfg
